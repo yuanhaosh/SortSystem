@@ -88,7 +88,7 @@ BOOL CDlgSortSystemOperater::OnInitDialog()
 	CDlgParam.HCPVariableToStructMember(sHcpParamter);
 	CDlgParam.ImageVariableToStructMember(sImageParamter);
 
-	return TRUE;
+	//return TRUE;
 	//2. ³õÊ¼»¯Ì½²âÆ÷
 	InitHCP();
 
